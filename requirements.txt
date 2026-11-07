@@ -1,3 +1,5 @@
 pywebview>=4.4
 openpyxl>=3.1
 py7zr>=0.21
+itch-dl>=1.0
+
